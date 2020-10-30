@@ -1,5 +1,2 @@
 ##Welcome!
-
-<div class="bg-gray">
-  .text-gray-dark on .bg-gray
-</div>
+#24292e, $bg-gray-dark
