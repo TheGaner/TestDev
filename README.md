@@ -1,2 +1,4 @@
-## This Site Is For Games
-s
+<div class="bg-gray">
+  .text-gray-dark on .bg-gray
+</div>
+##Welcome!
